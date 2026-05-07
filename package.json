@@ -10,7 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@aura-adaptive/aura-ui-adaptor": "^1.1.0",
+    "@aura-adaptive/aura-ui-adaptor": "^2.0.0",
     "lucide-react": "^0.577.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
